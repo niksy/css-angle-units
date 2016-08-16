@@ -1,6 +1,6 @@
 {
   "name": "css-angle-units",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of CSS angle units.",
   "main": "index.json",
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com)",
